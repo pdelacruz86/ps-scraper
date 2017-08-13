@@ -1,0 +1,17 @@
+{
+  "name": "ps-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "nightmare": "^2.10.0",
+    "progress": "^2.0.0",
+    "q": "^1.5.0"
+  }
+}
